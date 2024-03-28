@@ -1,0 +1,40 @@
+header{
+  background: #000;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  margin-top: -20px;
+}
+
+header h2{
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+section h2{
+  font-size: 30px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ddd{
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 100px;
+  margin-left: 10px;
+}
+
+.ff{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}
